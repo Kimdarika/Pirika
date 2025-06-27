@@ -1,0 +1,72 @@
+
+
+
+.card{
+    background: white;
+    border-radius: 15px;
+    font: 18px sans-serif;
+    
+}
+.card-body {
+    padding: 0 5px 0 5px;
+    color: rgb(2, 52, 95);
+    font-size: 12px;
+    
+}
+img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    
+}
+.product-card {
+    display: flex;
+    gap: 2%;
+
+}
+.card:hover {
+    background-color: blueviolet;
+}
+/* div{
+    background: linear-gradient(blue,white);
+} */
+
+body{
+    background-color: white;
+    align-content: center;
+}
+.card-tect{
+    margin: 10px 15%;
+    background-color: white ;
+    text-align: center;
+
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    
+}
+body{
+    /* margin: 10% 35%; */
+    font: 18px sans-serif;
+    
+    
+}
+a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    
+    margin: 10PX;
+    padding: 5PX;
+    border-radius: 8PX;
+}
+a:hover{
+    background-color: fuchsia;
+}
+
+.a{
+    font-size: 8px;
+    padding: 5px 0 5px 40px;
+    
+}
